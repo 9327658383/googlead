@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+class second extends StatefulWidget {
+  const second({Key? key}) : super(key: key);
+
+  @override
+  State<second> createState() => _secondState();
+}
+
+class _secondState extends State<second> {
+  @override
+
+  @override
+
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(),
+      body: Center(
+        child: Text("Welcome"),
+      ),
+    );
+  }
+}
